@@ -1,0 +1,147 @@
+.container{
+    max-width: 1366px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+header{
+    height: 264px;
+    background-color: rgb(6, 106, 207);
+    display: flex;
+    
+}
+li{
+    display: inline-block;
+    margin-right: 35px;
+    
+    
+}
+.navbars{
+    margin-left: 80px;
+    margin-top: 128px;
+    font-size: 20px;
+    color: white;
+    
+    
+    width: 415px;
+    }
+
+.logo{
+    text-align: center;
+    width: 215px;
+    height: 77px;
+    margin-top: 103px;
+    margin-left: 80px;
+
+}
+.searchbox{
+    width: 27px;
+    height: 27px;
+    float: right;
+    margin-left: 0px;
+    margin-top: 118px;
+    margin-right: 80px;
+}
+.bottomline{
+    width: 300px;
+    height: 30px;
+    border-bottom: 2px solid white;
+    margin-top: 118px;
+    margin-left: 150px;
+    
+}
+.section_one{
+    width: 100%;
+    background-image: url("../images/backgroundimage.png");
+    height: 550px;
+    
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 626px;
+    float: right;
+    /* margin-top: 10px; */
+}
+input{
+    width: 261px;
+}
+.createacc_header{
+    font-size: 32px;
+    font-weight: bold;
+    padding-top: 59px;
+
+}
+h4{
+    font-size: 12px;
+    color: #979797;
+}
+label{
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.753);
+    padding-top: 20px;
+}
+.h4_1{
+    padding-top: 28px;
+}
+input{
+    height: 35px;
+margin-top: 4px;   
+}
+.h4_2{
+    padding-top: 60px;
+    width: 282px;
+}
+.nextbutton{
+    background-color: rgb(6, 106, 207);
+    width: 261px;
+    height: 37px;
+    color: white;
+    margin-top: 30px;
+    border: none;
+    
+}
+.password_input{
+    background-image: url("../images/passwordicon.svg");
+    background-repeat: no-repeat;
+    background-position: right;
+    /* background-size: contain; */
+}
+.header_2{
+    text-align: center;
+    font-size: 72px;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+.section_two{
+    max-width: 1366px;
+    width: 100%;
+    background-color: #FFB45A;
+    height: 600px;
+}
+.bottominputs{
+    display: flex;
+    padding-left: 300px;
+}
+.bottom_form{
+    justify-content: center;
+    margin-right: 420px;
+    width: 900px;
+    margin-left: 300px;
+}
+.your_name{
+   margin-right: 150px;
+}
+.your_phone{
+    
+}
+.textarea_1{
+    padding-left: 300px;
+    float: right;
+    margin-top: 65px;
+    width: 900px;
+    resize: none;
+    border: none;
+}
